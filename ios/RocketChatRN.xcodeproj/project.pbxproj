@@ -214,7 +214,7 @@
 		016747EF3B9FED8DE2C9DA14 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-defaults-ShareRocketChatRN/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
 		06BB44DD4855498082A744AD /* libz.tbd */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		06BF76141694B1D81438676F /* Pods-defaults-ShareRocketChatRN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-defaults-ShareRocketChatRN.release.xcconfig"; path = "Target Support Files/Pods-defaults-ShareRocketChatRN/Pods-defaults-ShareRocketChatRN.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* Rocket.Chat Experimental.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rocket.Chat Experimental.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* ABG Golpo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ABG Golpo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RocketChatRN/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RocketChatRN/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RocketChatRN/Info.plist; sourceTree = "<group>"; };
@@ -547,7 +547,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Rocket.Chat Experimental.app */,
+				13B07F961A680F5B00A75B9A /* ABG Golpo.app */,
 				1EC6ACB022CB9FC300A41C61 /* ShareRocketChatRN.appex */,
 				1EFEB5952493B6640072EDC0 /* NotificationService.appex */,
 				7AAB3E52257E6A6E00707CF6 /* Rocket.Chat.app */,
@@ -648,7 +648,7 @@
 			);
 			name = RocketChatRN;
 			productName = "Hello World";
-			productReference = 13B07F961A680F5B00A75B9A /* Rocket.Chat Experimental.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* ABG Golpo.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1EC6ACAF22CB9FC300A41C61 /* ShareRocketChatRN */ = {
@@ -1557,7 +1557,7 @@
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
 				PRODUCT_BUNDLE_IDENTIFIER = chat.rocket.reactnative;
-				PRODUCT_NAME = "Rocket.Chat Experimental";
+				PRODUCT_NAME = "ABG Golpo";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "RocketChatRN-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "RocketChatRN-Swift.h";
@@ -1619,7 +1619,7 @@
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
 				PRODUCT_BUNDLE_IDENTIFIER = chat.rocket.reactnative;
-				PRODUCT_NAME = "Rocket.Chat Experimental";
+				PRODUCT_NAME = "ABG Golpo";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "RocketChatRN-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "RocketChatRN-Swift.h";
