@@ -5,7 +5,7 @@
 	<key>IS_OFFICIAL</key>
 	<false/>
 	<key>AppGroup</key>
-	<string>group.ios.chat.rocket</string>
+	<string>group.ios.chat.abg</string>
 	<key>bugsnag</key>
 	<dict>
 		<key>apiKey</key>
@@ -47,7 +47,7 @@
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>KeychainGroup</key>
-	<string>$(AppIdentifierPrefix)chat.rocket.reactnative</string>
+	<string>$(AppIdentifierPrefix)chat.rocket.reactnative.abg</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>googlechrome</string>
